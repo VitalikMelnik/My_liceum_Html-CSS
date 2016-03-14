@@ -1,0 +1,280 @@
+#text_header{
+    margin-top: 140px;
+    height: 260px;
+    width: 100px;
+    margin-left: 800px;
+}
+.border{
+    width: 100px;
+    height: 100px;
+}
+#border1{
+    margin-left: 290px;
+    position: absolute;
+}
+#border2{
+    margin-top: 270px;
+}
+#information{
+    position: absolute;
+    margin-left: 600px;
+    margin-top: 100px;
+    font-family:"Bad Script";
+    font-size: 20px;
+    font-weight: normal;
+}
+#information:hover {
+    color: #ffea18;
+    border-bottom: dashed;
+}
+#tel_namber{ position: absolute;
+    margin-left: 740px;
+    margin-top: 400px;
+    font-family:"Bad Script";
+    font-size: 70px;
+}
+#tel_namber:hover{
+    color: #ffea18;
+    border-bottom: dashed;
+}
+#tel{
+    margin-top: 430px;
+    position: absolute;
+    margin-left: 610px;
+    width: 100px;
+    height: 100px;
+}
+#vk_a{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin-left: 800px;
+    margin-top: 100px;
+}
+#fasebook_a{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin-left: 1000px;
+    margin-top: 100px;
+}
+#text_header_text{
+    position: absolute;
+    width: 320px;
+    font-family:"Bad Script";
+    font-size: 15px;
+    font-weight: normal;
+}
+#teg_p{
+    margin-left: 35px;
+   margin-top: 10px;
+
+}
+#div3_photo1{
+    width: 490px;
+    height: 290px;
+    position: absolute;
+    margin-top: 385px;
+    margin-left: 770px;
+    box-shadow: 0 0 100px rgb(0, 0, 0)
+
+}#div3_photo2{
+     margin-top: 385px;
+     width: 490px;
+     height: 290px;
+     position: absolute;
+     margin-left: 30px;
+     box-shadow: 0 0 100px rgb(0, 0, 0)
+ }
+#div3_photo3{
+    margin-top: 80px;
+    margin-left: 30px;
+    width: 490px;
+    height: 290px;
+    position: absolute;
+    box-shadow: 0 0 100px rgb(0, 0, 0)
+}
+#div3_photo4{
+    margin-top: 80px;
+    margin-left: 770px;
+    width: 490px;
+    height: 290px;
+    position: absolute;
+    box-shadow: 0 0 100px rgb(0, 0, 0)
+}
+#div3_photo1:hover{
+    -webkit-filter: grayscale(80%);
+}
+#div3_photo2:hover{
+    -webkit-filter: sepia(80%);
+}
+#div3_photo3:hover{
+    -webkit-filter: sepia(80%);
+}
+#div3_photo4:hover{
+    -webkit-filter: grayscale(80%)
+}
+#learn_more{
+    background-color: #ffea18;
+    width: 150px;
+    height: 60px;
+    margin-left: 570px;
+    margin-top: 350px;
+    border-radius: 25px;
+    position: absolute;
+    box-shadow: 0 0 100px rgb(0, 0, 0)
+}
+.vertical-text {
+    position: absolute;
+    margin-left: 580px;
+    margin-top: 365px;
+    font-family: AleksandraC;
+    color: #001fff;
+    font-size: 23px;
+}
+.round {
+    margin-top: 100px;
+    margin-left: 5px;
+    width: 280px;
+    height: 290px;
+    border-radius: 150px;
+    border: 3px solid #000000;
+    box-shadow: 0 0 100px rgb(0, 0, 0)
+}
+#div4_text{
+    font-family: Archangelsk;
+    font-size: 30px;
+    margin-top: 500px;
+    margin-left: 440px;
+    color: black;
+    position: absolute;
+}
+.round:hover{
+    -webkit-filter: grayscale(80%);
+}
+.vk{
+    width: 20px;
+    height: 20px;
+}
+.round2 {
+    margin-top: 100px;
+    margin-left: 30px;
+    width: 280px;
+    height: 290px;
+    border-radius: 150px;
+    border: 3px solid #000000;
+    box-shadow: 0 0 100px rgb(0, 0, 0)
+}
+.round2:hover{
+    -webkit-filter: sepia(80%);
+}
+#div5_text{
+    font-family: Archangelsk;
+    font-size: 30px;
+    margin-top: 500px;
+    margin-left: 440px;
+    color: black;
+    position: absolute;
+}
+.bagroun_div5{
+    width: 100%;
+    height: 700px;
+}
+input:valid + span:after {
+
+    padding-left: 5px;
+}
+input:invalid + span:after {
+
+    padding-left: 5px;
+}
+input[type="number"] {
+    margin-right: -3px;
+}#text_list{
+    width: 300px;
+    height: 100px;
+ }
+ #input{
+     margin-left: 100px;
+     margin-top: 100px;
+     height: 500px;
+     width: 350px;
+     background-color: #09b5e2;
+     box-shadow: 0 0 100px rgb(0, 0, 0)
+ }
+textarea {
+    width: 280px;
+    height: 100px;
+    resize: none;
+}
+#title_text{
+    color: #ffea18;
+    font-family: "Abyssinica SIL";
+    font-size: 20px;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+#firm_name{
+    color: #ffea18;
+    font-family: "Abyssinica SIL";
+    font-size: 20px;
+    margin-left: 115px;
+    margin-top: 20px;
+}
+#form_email{
+    color: #ffea18;
+    font-family: "Abyssinica SIL";
+    font-size: 20px;
+    margin-left: 140px;
+    margin-top: 20px;
+}#name{
+    margin-left: 30px;
+    width: 280px;
+ }
+ #email{
+     width: 280px;
+     margin-left: 30px;
+ }#coment{
+       color: #ffea18;
+       font-family: "Abyssinica SIL";
+       font-size: 20px;
+       margin-left: 128px;
+       margin-top: 20px;
+   }
+  #text_area{
+      margin-left: 30px;
+  }
+#button{
+    margin-top: 30px;
+    font-family: "Abyssinica SIL";
+    font-size: 15px;
+    width: 100px;
+    height: 30px;
+    margin-left: 120px;
+    background-color: #ffea18;
+    border: 0px;
+    box-shadow: 0 0 100px rgb(0, 0, 0)
+
+}
+.bagroun_div6{
+    width: 100%;
+    height: 300px;
+    position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

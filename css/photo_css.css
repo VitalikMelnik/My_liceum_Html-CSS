@@ -1,0 +1,96 @@
+#photo1{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 90px;
+    width: 550px;
+    height: 350px;
+    box-shadow: 0 0 100px rgb(0, 0, 0);
+}
+ul.hr {
+    margin: 0; /* Обнуляем значение отступов */
+    padding: 4px; /* Значение полей */
+}
+ul.hr li {
+    display: inline; /* Отображать как строчный элемент */
+    margin-right: 5px; /* Отступ слева */
+
+    padding: 3px; /* Поля вокруг текста */
+}
+#list a{
+    text-decoration: none;
+    color: aliceblue;
+    font-family: "DejaVu Serif Condensed";
+    font-size: 14px;
+}
+#list{
+    margin-left: 20px;
+    margin-top: 13px;
+    }
+#logo{
+    margin-left: 50px;
+    margin-top: 120px;
+    background-color: aliceblue;
+    width: 220px;
+    height: 210px;
+    border-radius: 25px;
+    position: absolute;
+    box-shadow: 0 0 100px rgb(0, 0, 0);
+}
+#audio{
+    margin-top: 350px;
+    position: absolute;
+    margin-left: 400px;
+    box-shadow: 0 0 100px rgb(0, 0, 0);
+}
+#maps{
+    width: 400px;
+    height: 300px;
+    margin-top: 150px;
+    margin-left: 850px;
+    position: absolute;
+    box-shadow: 0 0 100px rgb(0, 0, 0);
+}
+
+#photo_div2{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 90px;
+    width: 550px;
+    height: 350px;
+    box-shadow: 0 0 100px rgb(0, 0, 0);
+}
+#bagroun_div2{
+    width: 100%;
+    height: 700px;
+}
+#maps_text{
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 975px;
+    font-family: "Anfisa Grotesk";
+    font-size: 50px;
+}#audio_text{
+     position: absolute;
+     margin-top: 400px;
+     margin-left: 410px;
+     font-family: "Anfisa Grotesk";
+     font-size: 50px;
+ }#logo_text{
+       position: absolute;
+       margin-top: 340px;
+       margin-left: 60px;
+       font-family: "Anfisa Grotesk";
+       font-size: 50px;
+   }
+  #photo_div3{
+      width: 100%;
+      height: 700px;
+  }
+
+
+
+
+
+
+
+

@@ -1,0 +1,206 @@
+#divblok1{
+    margin-top: 0px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 700px;
+    background-color: aqua;
+
+}
+#divblok2{
+     margin-top:700px ;
+        position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 700px;
+     background-color: skyblue;
+
+ }
+#divblok3{
+    margin-top:1400px ;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 700px;
+    background-color: aquamarine;
+
+}
+#divblok4{
+    margin-top:2100px ;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 700px;
+    background-color: cyan;
+
+}
+#divblok5{
+    margin-top:2800px ;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 700px;
+    background-color: skyblue;
+
+}
+#divblok6{
+    margin-top:3500px ;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 700px;
+    background-color: deepskyblue;
+
+}
+#divblok7{
+    margin-top:4200px ;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 125px;
+    background-color: #00ffea;
+
+}
+#footer{
+    margin-left: 240px;
+    position: fixed;
+    width: 850px;
+    height: 50px;
+    background-color: midnightblue;
+    filter:alpha(opacity=80);
+    -moz-opacity:0.8;
+    opacity: 0.8;
+    border-radius: 25px;
+    box-shadow: 0 0 5px 3px;
+
+}
+#list_header{
+    text-indent: 1.5em;
+    text-align: right;
+    margin-left: 330px;
+    height: 40px;
+    width: 950px;
+    text-align: justify;
+
+}
+.hr_header{
+    background-color: #ffea18;
+    height: 3px;
+    margin: 0%;
+}
+#wer{
+    position: absolute;
+    margin-top: 10px;
+ }
+#list2 a{
+    font-family: AleksandraC;
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 18px;
+    text-align: right;
+}
+#header {
+    height: 50px;
+    width: 100%;
+    background-color: #09b5e2;
+}
+#photo2{
+    position: absolute;
+    width: 200px;
+    margin-top: 5px;
+}
+#title_h1{
+    width: 700px;
+    font-family:"Christmas ScriptC";
+    font-size: 1.55em;
+    font-weight: normal;
+}
+#title{
+
+    color: #001fff;
+    margin-left: 290px;
+    text-align: center;
+    position: absolute;
+    margin-top: 60px;
+    width: 700px;
+}
+#ramka{
+    width: 100px;
+    height: 70px;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 290px;
+}
+#ramka2{
+    width: 100px;
+    height: 70px;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 880px
+}
+#list2 a:hover{
+    color: #ffea18;
+    border-bottom: solid;
+    border-color: #ffea18;
+}
+#list a:hover{
+    color: #ffea18;
+    border-bottom: solid;
+    border-color: #ffea18;
+}
+#list a{
+    font-family: AleksandraC;
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 15px;
+    text-align: right;
+    margin-left: 13px;
+
+}#by_melnik {
+    margin-left: 300px;
+    margin-top: 20px;
+    font-size: 40px;
+    font-family: "Bad Script";
+ }
+.footer{
+    margin-left: 30px;
+    width: 50px;
+    height: 50px;
+}
+#by_melnik:hover{
+    color: #ffea18;
+
+}#song{
+    color: #000000;
+    position: absolute;
+     margin-left: 330px;
+     margin-top: 140px;
+     font-size: 30px;
+     font-family: "Bad Script";
+ }#song2{
+      color: #000000;
+      position: absolute;
+      margin-left: 80px;
+      margin-top: 430px;
+      font-size: 18px;
+      font-family: "Bad Script";
+  }
+  #photo_more{
+      position: absolute;
+      width: 400px;
+      height: 100px;
+      margin-left: 400px;
+      margin-top: 530px;
+  }
+
+
+
+
+
